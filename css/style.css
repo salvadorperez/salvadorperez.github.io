@@ -62,10 +62,31 @@ header{
 nav {
 	width: 1000px;
 	height: 50px;
-	background ;
+	background:#BDBDBD ;
 	border-radius: 10px;
 
 }
+
+#menu2{
+	width: 1000px;
+	height: 50px;
+	background:#00FF00 ;
+	border-radius: 10px;
+
+}
+
+#img3{
+	width: 230px;
+	height: 300px;
+	border-left: 10px;
+	border-right: 
+}	
+#img4{
+	width: 230px;
+	height: 300px;
+	border-left: 10px;
+	border-right: 
+}	
 
 ul{
 
